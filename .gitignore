@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-cleaneddate104.csv
-GradeBook.xls
+*.csv
+*.xls
